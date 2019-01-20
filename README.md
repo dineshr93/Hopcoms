@@ -1,5 +1,7 @@
-# Hopcoms
-Hopcoms price list fetched from [website](https://hopcoms.kar.nic.in/(S(ern1cibqxmaqj445vzdd1au3))/RateList.aspx)from low to high and categorized as vegetables and fruits
+# Hopcoms*
+Hopcoms categorized sorted day to day price list fetched from its [website](https://hopcoms.kar.nic.in/). It is categorized as vegetables and fruits, Leafy vegetables.
+
+
 
 [sample output](https://github.com/dineshr93/Hopcoms/blob/master/sample_output/Jan_19_2019_Hopcoms.txt) | 
 [Executale jar](https://github.com/dineshr93/Hopcoms/blob/master/ready_to_use_jar/Hopcoms_v1.jar)
@@ -26,3 +28,6 @@ See the License for the specific language governing permissions and limitations
 under the License.
 
 Anyone are welcome to improve the code and add more categories.!
+
+
+***Trademark names solely belong to the respective owners I and the contributors shall not be liable to any legal prosecution
