@@ -1,7 +1,7 @@
 # Hopcoms
 Hopcoms price list from low to high and categorized as vegetables and fruits
 
-[sample output](https://github.com/dineshr93/Hopcoms/blob/master/sample_output/Jan_19_2019_Hopcoms.txt)
+[sample output](https://github.com/dineshr93/Hopcoms/blob/master/sample_output/Jan_19_2019_Hopcoms.txt) | 
 [Executale jar](https://github.com/dineshr93/Hopcoms/blob/master/ready_to_use_jar/Hopcoms_v1.jar)
 
 **Categories present**
